@@ -11,6 +11,8 @@
 
   - [架构](Functional_building/architecture.md)
   
+  - [模板配置](Functional_building/Template.md)
+  
   - [基础数据](Functional_building/BasicData.md)
   
   - [容器](Functional_building/container.md)
@@ -20,11 +22,7 @@
   - [单功能](Functional_building/SingleFun.md)
   
   - [图形图表](Functional_building/Gcharts.md)
-  
-  - [模板配置](Functional_building/Template.md)
-
-  - [左侧导航配置](Functional_building/LeftNav.md)
-  
+    
   - [详细配置](Functional_building/Detail.md)
   
 * FAQ常见问题
